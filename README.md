@@ -103,6 +103,6 @@ RTOS elements used: `Semaphore`, `HWI`, `SWI`, `Task`.
 
 ## 👥 Authors
 
-- **Maria Nakhala**
+- **Maria Nakhle**
 - **Sanaa Atamna**
 
