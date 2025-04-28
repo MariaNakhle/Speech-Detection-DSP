@@ -69,8 +69,8 @@ RTOS elements used: `Semaphore`, `HWI`, `SWI`, `Task`.
 - **Execution Graph**:
 
 - **Task Load and CPU Load Graphs**:
-![Task Load](assets/task_load_and_cpu_load.png)
-![CPU Load](assets/Data_clear.png)
+![Data clear:](assets/Data_clear.png)
+![Task Load and Cpu Load:](assets/task_load_and_cpu_load.png)
 
 ---
 
