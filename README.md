@@ -46,7 +46,7 @@ Developed during the **DSP Processors Programming** course at the Department of 
 RTOS elements used: `Semaphore`, `HWI`, `SWI`, `Task`.
 
 **Block Diagram**:  
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](assets/block_diagram.png)
 
 ---
 
@@ -69,8 +69,8 @@ RTOS elements used: `Semaphore`, `HWI`, `SWI`, `Task`.
 - **Execution Graph**:
 
 - **Task Load and CPU Load Graphs**:
-![Task Load](images/task_load_and_cpu_load.png)
-![CPU Load](images/Data_clear.png)
+![Task Load](assets/task_load_and_cpu_load.png)
+![CPU Load](assets/Data_clear.png)
 
 ---
 
