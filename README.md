@@ -68,8 +68,9 @@ RTOS elements used: `Semaphore`, `HWI`, `SWI`, `Task`.
 - **Original signal**, **filtered signal**, **FFT spectrum**.
 - **Execution Graph**:
 
-- **Task Load and CPU Load Graphs**:
+- **Data Clear**:
 ![Data clear:](assets/Data_clear.png)
+- **Task Load and CPU Load Graphs**:
 ![Task Load and Cpu Load:](assets/task_load_and_cpu_load.png)
 
 ---
